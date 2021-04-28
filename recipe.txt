@@ -1,0 +1,9 @@
+// Generas un SETUP
+-- variables
+-- instancias
+-- clases 
+// Exuction
+- Generar el proseso para antes de al ejecucion de la prueba
+- select * from tanle;
+// Test
+-- ejecutar todas las afirmaciones
