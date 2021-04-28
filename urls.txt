@@ -1,0 +1,13 @@
+https://projectlombok.org/features/all
+lombok
+http://modelmapper.org/
+Model modelmapper
+https://www.baeldung.com/jackson-object-mapper-tutorial
+JACKSON JSON
+https://www.baeldung.com/jackson-xml-serialization-and-deserialization
+JACKSON XML
+https://github.com/google/gson
+GSON
+
+
+

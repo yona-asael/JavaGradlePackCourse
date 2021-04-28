@@ -1,0 +1,11 @@
+Leer el archivo JSON en resources que se llamara posts.JSON
+Leeras el archivo con 
+Crearas una clase que se llame POSTS y un POSTDTO remover userID en el dto
+jackson y GSON(Solo 1) para el json uno de cada mapeando posts
+
+Tomaras model mapper y mapearas losts POSTS a POSTDTO
+
+
+MAPPEARAS A XML un POSTDTO (Solo 1)
+Mapearas a JSON todos los postDTO, todos los posts uno con jackson y uno con gson(Solo 1)
+

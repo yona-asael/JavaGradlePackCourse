@@ -5,8 +5,25 @@
 plugins {
     id 'com.quintech.java-application-conventions'
 }
+repositories {
+	mavenCentral()
+}
 
 dependencies {
+    // Desarrollo
+
+
+    // Necesarias
+    compileOnly 'org.projectlombok:lombok:1.18.20'
+	annotationProcessor 'org.projectlombok:lombok:1.18.20'
+    implementation group: 'org.modelmapper', name: 'modelmapper', version: '2.4.1'
+    implementation group: 'com.fasterxml.jackson.core', name: 'jackson-databind', version: '2.12.3'
+    implementation group: 'com.fasterxml.jackson.dataformat', name: 'jackson-dataformat-xml', version: '2.12.3'
+    implementation 'com.google.code.gson:gson:2.8.6'
+
+    // Testing
+	testCompileOnly 'org.projectlombok:lombok:1.18.20'
+	testAnnotationProcessor 'org.projectlombok:lombok:1.18.20'
 }
 
 application {
