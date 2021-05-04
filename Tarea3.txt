@@ -9,3 +9,25 @@ Tomaras model mapper y mapearas losts POSTS a POSTDTO
 MAPPEARAS A XML un POSTDTO (Solo 1)
 Mapearas a JSON todos los postDTO, todos los posts uno con jackson y uno con gson(Solo 1)
 
+Segunda parte
+Hacer una clase llamada mapper que haga siguiente
+Tenga todos de mapeos objetos, json y xml
+
+Model mapper debe agregarle mappings desde un matodo llamado mappings
+Propiedad mapper;
+funcion para agregarlos se llame addMappings
+funcion para vaciar mappings
+mapTo Object to list y class
+
+Propiedad objectmapper
+convertToJsonJackson String
+convertJSontoObject object class
+convertJsontoListOBject object TypeReference
+
+
+Propiedad gson
+las mismas funciones TypeToken
+
+
+XML 
+solo parsear
