@@ -1,0 +1,42 @@
+Utilizar el API https://pokeapi.co/ Root Pokemon Root PokemonColor
+Convertir Json to pojo https://json2csharp.com/json-to-pojo
+Crear una aplicacion de consola con un menu con las siguientes opciones
+
+
+Encontrar Pokemon por id
+ENcontrar pokemon por nombre
+Encontrar Pokemon Por color
+
+(Menu)
+----------------------------Pokemons----------------------------
+
+1) Encontrarlo Por id
+2) Encontrarlo Por nombre
+3) Encontrarlo Por Color
+
+----------------------------------------------------------------
+{Ingresar dato}
+
+
+(Menu 1)
+-----------------Encontrar Pokemon Por id-----------------------
+
+Ingrese el id del pokemion
+
+----------------------------------------------------------------
+{Ingresar dato}
+
+(Menu 2)
+----------------------Buscando pokemon--------------------------
+
+imprimir pokemon
+
+-----------------------------------------------------------------
+
+(Menu 3)
+--------------------------Opciones------------------------------
+1) Continuar
+2) Salir
+---------------------------------------------------------------
+{Si dice continuar limpiar consola}
+
